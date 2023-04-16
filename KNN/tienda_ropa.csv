@@ -1,0 +1,8 @@
+﻿edad,genero,estado_civil,nivel_educativo,ingresos,visitas_sitio,compras_previas,propenso_a_comprar
+28, M, soltero, licenciatura,35000,5,1, no tan propenso
+35, F, casado, maestría,55000,10,3, altamente propenso
+42, M, casado, bachillerato,48000,8,2, no tan propenso
+24, F, soltero, bachillerato,28000,3,0, no tan propenso
+47, F, divorciado, doctorado,75000,12,5, altamente propenso
+31, M, soltero, maestría,42000,6,1, no tan propenso
+39, F, casado, licenciatura,58000,9,4, altamente propenso

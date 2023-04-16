@@ -1,0 +1,10 @@
+﻿edad,ingresos,cantidad_compras,categoria
+25,5000,10, malo
+30,8000,5, malo
+40,12000,15, bueno
+50,20000,20, bueno
+35,10000,8, malo
+45,15000,12, bueno
+65,12000,11,malo
+80,22000,13,bueno
+90,21000,21,bueno
